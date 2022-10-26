@@ -1,0 +1,6 @@
+C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Lab 12_B\EX_4\Starter\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Lab 12_B\EX_4\Starter\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Lab 12_B\EX_4\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Lab 12_B\EX_4\Starter\BinaryTree\obj\x86\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Lab 12_B\EX_4\Starter\BinaryTree\obj\x86\Debug\BinaryTree.dll
+C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Lab 12_B\EX_4\Starter\BinaryTree\obj\x86\Debug\BinaryTree.pdb
