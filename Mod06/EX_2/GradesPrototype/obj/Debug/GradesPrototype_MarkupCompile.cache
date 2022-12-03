@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Mod06\EX_2\GradesPrototype\obj\Debug\
+C:\Users\dreyv\Source\Repos\CS_Course_IT-Academ\Mod06\EX_2\GradesPrototype\obj\Debug\
 GradesPrototype
 none
 false
 DEBUG;TRACE
-C:\Users\dreyv\Desktop\Academi_IT_C_Advenced-main\Mod06\EX_2\GradesPrototype\App.xaml
+C:\Users\dreyv\Source\Repos\CS_Course_IT-Academ\Mod06\EX_2\GradesPrototype\App.xaml
 8-1772316701
 
-171076699451
-131917773620
+16-845078670
+13-224820357
 Controls\AssignStudentDialog.xaml;Controls\ChangePasswordDialog.xaml;Controls\GradeDialog.xaml;Controls\StudentDialog.xaml;MainWindow.xaml;Views\LogonPage.xaml;Views\StudentProfile.xaml;Views\StudentsPage.xaml;
 
 True
